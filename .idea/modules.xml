@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jodconverter-core/jodconverter-core.iml" filepath="$PROJECT_DIR$/jodconverter-core/jodconverter-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jodconverter-web/jodconverter-web.iml" filepath="$PROJECT_DIR$/jodconverter-web/jodconverter-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yl-service-filepreview.iml" filepath="$PROJECT_DIR$/yl-service-filepreview.iml" />
+    </modules>
+  </component>
+</project>
